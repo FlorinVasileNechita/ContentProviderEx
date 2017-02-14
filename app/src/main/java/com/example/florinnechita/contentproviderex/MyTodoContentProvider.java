@@ -23,6 +23,10 @@ import java.util.HashSet;
 //https://www.youtube.com/watch?v=bOibA743RDI
 //    http://www.mysamplecode.com/2012/11/android-database-content-provider.html
 //    https://github.com/ArtemMikhaylov/my_android_notes/wiki/SQLite,-ContentProvider,-CursorLoader
+
+//    http://www.theappguruz.com/blog/use-android-cursorloader-example
+
+    
 public class MyTodoContentProvider extends ContentProvider {
 
     private TodoDatabaseHelper database;
