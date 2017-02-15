@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">ContentProviderEx</string>
+
+
     <string name="hello">Hello World, Todo!</string>
     <string name="no_todos">Currently there are no Todo items maintained</string>
     <string name="menu_insert">Add Item</string>
@@ -9,4 +11,11 @@
     <string name="todo_edit_summary">Summary</string>
     <string name="todo_edit_description">Description</string>
     <string name="todo_edit_confirm">Confirm</string>
+
+
+    <string-array name="priorities">
+        <item>Urgent</item>
+        <item>Reminder</item>
+    </string-array>
+
 </resources>
